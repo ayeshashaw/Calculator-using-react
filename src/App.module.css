@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-color: khaki;
+    width: 200px;
+    height: 600px;
+    margin: 20px ;
+    padding: 20px;
+    
+   
+
+}
